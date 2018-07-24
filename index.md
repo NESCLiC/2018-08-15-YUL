@@ -114,7 +114,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-	<strong>Desktop computers will be provided for participants without laptops. </strong>Participants <strong>may</strong> bring a laptop with a
+	<strong>Requirements: Desktop computers will be provided for participants without laptops. </strong>Participants <strong>may</strong> bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
   on. They should have a few specific software packages installed (listed
   <a href="#setup">below</a>). They are also required to abide by
@@ -176,7 +176,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% endif %}
   for more information.
 </p>
-
+<p>
+	<strong>Registration: </strong><a href='http://schedule.yale.edu/event/4344752'>http://schedule.yale.edu/event/4344752</a>
+</p>
 <hr/>
 
 {% comment %} 
